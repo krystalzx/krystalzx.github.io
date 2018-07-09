@@ -1,0 +1,23 @@
+body {
+    background-image: url("http://qimplink.com/wp-content/uploads/2018/03/mint-green-walls-terrific-color-wallpaper-of-mobile-full-hd-pics.jpg");
+}
+
+.jumbotron {       /*select class container didn't work*/
+    background-color: rgba(0,0,0,0);
+}
+
+.btn {
+    font-weight: 700;
+    text-transform: uppercase;
+    border-radius: 300px;          /*for changing the shape of btn*/
+    font-family: 'Monserrat', sans-serif;
+}
+
+.btn-xl {
+    padding: 1em 2em;   /*1em top&bottom 2em for left&right*/
+}
+
+.btn-primary {
+    background-color: #f4b0d3;
+    border-color: #f4b0d3;
+}
